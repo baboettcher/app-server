@@ -9,3 +9,7 @@ node_modules/
 *.flac
 *.txt
 key/
+
+deploy.sh
+test_1
+
